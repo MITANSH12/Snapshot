@@ -1,0 +1,17 @@
+#heading {
+    font-size: 30px;
+}
+body {
+    text-align: center;
+}
+canvas {
+    border: 1px solid black;
+}
+#snapshot {
+    margin: 580px;
+    margin-right:480px;
+    border-radius: 50px;
+    font-size: 30px;
+    color: gray;
+    background-color: black;
+}
